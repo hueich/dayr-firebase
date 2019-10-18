@@ -1,0 +1,21 @@
+body, input, select {
+    font-family: monospace;
+}
+a {
+    color: #653f03;
+}
+form {
+    margin-bottom: 0em;
+}
+.node {
+    margin-left: 1.3em;
+}
+.desc {
+    font-size: 0.9em;
+}
+.error {
+    color: red;
+}
+#main-graph {
+    margin: 0.5em 0 0.5em 0;
+}
