@@ -1,5 +1,6 @@
 body, input, select {
     font-family: monospace;
+    background-color: #dad5cb;
 }
 a {
     color: #653f03;
