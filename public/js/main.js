@@ -6,7 +6,7 @@ const Directions = Object.freeze({
 });
 
 const tradeDataPaths = [
-    ['v.656', 'data/trade-data-v656.csv'],
+    ['v.656', 'data/trade-data-v656.csv?20200306'],
     ['v.641', 'data/trade-data-v641.csv'],
     ['v.596', 'data/trade-data-v596.csv'],
     ['v.593', 'data/trade-data-v593.csv'],

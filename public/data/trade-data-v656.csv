@@ -1,12 +1,11 @@
 Location,ToCount,ToItem,FromCount,FromItem
 Arzamas,5,Salt,1,Alcohol
-Arzamas,5,Coffee,1,Lymph
+Arzamas,1,Coffee,1,Lymph
 Arzamas,1,Chlorcystamine,20,Revolver ammo
 Arzamas,1,Hand mill,3,Vodka
 Bryansk,1,Rubber parts,10,Energizing Potion
 Bryansk,1,Hacksaw,5,Vodka
 Bryansk,10,Nettle,1,Flour
-Bryansk,1,Pasta,50,Coal
 Bryansk,1,Pasta,50,Coal
 Chelyabinsk,20,Sulfur,1,Bone glue
 Chelyabinsk,1,Cement,1,Plastic explosives
